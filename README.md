@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pratyush1223</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div> 
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush1223&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush1223" /> </p>
